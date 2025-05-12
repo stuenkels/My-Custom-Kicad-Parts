@@ -1,0 +1,301 @@
+(footprint "TVS2200"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.03 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b7de3530-8b3c-42cd-8989-5143ea42159d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TVS2200"
+		(at 0.03 1.98 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "14ca01b9-db1a-458c-bd0b-d22d1241af30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tvs2200.pdf?ts=1747031833437&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTVS2200"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "328c2788-5fd9-4ed5-806d-93ea4dc1561e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "22-V Flat-Clamp Surge Protection Device"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82dc9491-5fb2-4d92-bc90-228a9fa57fe1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.2275 -1.275)
+		(end -1.1525 -1.165)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6fbee3f1-b842-4fa4-b87c-2609fba92a2e")
+	)
+	(fp_line
+		(start -1.2275 -1.275)
+		(end -1.0775 -1.275)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "660eaf39-bae7-4dfa-9c2f-c8d4358f362e")
+	)
+	(fp_line
+		(start -1.15 0.89)
+		(end -1.15 1.14)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "055a4bd2-971c-4985-986c-378e5f70497e")
+	)
+	(fp_line
+		(start -1.145 -0.89)
+		(end -1.145 -0.99)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9cc1f826-a693-4215-a584-466ba6d0bbd3")
+	)
+	(fp_line
+		(start -1.145 1.14)
+		(end -0.895 1.14)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0c22a70-01d9-4aff-8495-e1fff2e41105")
+	)
+	(fp_line
+		(start -1.0775 -1.275)
+		(end -1.1525 -1.165)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5362d2aa-7653-496d-9bb6-112886c07116")
+	)
+	(fp_line
+		(start -1 -1.15)
+		(end -0.9 -1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0cfa383a-87a5-457f-aa13-257f77deeca1")
+	)
+	(fp_line
+		(start 0.9 1.14)
+		(end 1.15 1.14)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e89f906e-e80f-4759-b9cc-ae893fc66138")
+	)
+	(fp_line
+		(start 1.145 -1.145)
+		(end 0.895 -1.145)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1303c9a5-86cd-4fcd-8840-ab0a1b6ad0e6")
+	)
+	(fp_line
+		(start 1.15 -0.895)
+		(end 1.15 -1.145)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "44bb6a01-4c4c-45a4-be88-0f1b64227ce4")
+	)
+	(fp_line
+		(start 1.15 1.135)
+		(end 1.15 0.885)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b174a92b-90c2-4a21-9e9f-9b59c4a607e8")
+	)
+	(fp_rect
+		(start -0.442354 -0.736198)
+		(end 0.439647 -0.130399)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "b086c814-0ff1-4623-9f08-792fe503ad83")
+	)
+	(fp_rect
+		(start -0.440747 0.132256)
+		(end 0.441254 0.738055)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "1496174e-a7f1-4145-8070-4679fd9fd8c6")
+	)
+	(fp_rect
+		(start -1.43 -1.126)
+		(end 1.43 1.114)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9ab3d255-60cc-4faf-8de3-e82e641b6def")
+	)
+	(fp_line
+		(start -1.05 -0.9)
+		(end -0.91 -1.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "081ae553-ea15-4bb6-b8a6-7e5c8bc05783")
+	)
+	(fp_line
+		(start -1.05 -0.795)
+		(end -0.812 -1.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e640178a-6cc4-4f95-a0bf-9538ac41d9e3")
+	)
+	(fp_rect
+		(start -1.05 -1.05)
+		(end 1.05 1.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3bafa43b-8ef7-4e63-96f3-76e523456b15")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.03 3.48 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "297333b8-1eba-4779-b517-01edbcfe535e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.975 -0.65)
+		(size 0.45 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "25522b08-1f83-4c93-be17-7338097a55e4")
+	)
+	(pad "2" smd rect
+		(at -0.975 0)
+		(size 0.45 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "094a6bdc-04a4-45f7-bf60-146ba5a938b9")
+	)
+	(pad "3" smd rect
+		(at -0.975 0.65)
+		(size 0.45 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d3fd7a15-4898-4daf-a5ab-c56eefe90848")
+	)
+	(pad "4" smd rect
+		(at 0.975 0.65)
+		(size 0.45 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d71d408b-5ad9-41ff-ae73-bf8b03422227")
+	)
+	(pad "5" smd rect
+		(at 0.975 0)
+		(size 0.45 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1299fa13-b2aa-496f-9923-d04d27ca705c")
+	)
+	(pad "6" smd rect
+		(at 0.975 -0.65)
+		(size 0.45 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d4383049-330f-4230-aa12-663b6b51f958")
+	)
+	(pad "7" smd rect
+		(at 0 0)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "2317f2b0-6a3b-4444-a221-76325b879669")
+	)
+	(group ""
+		(uuid "cc23b8fb-f23e-409c-a9fa-b02d20dd3140")
+		(members "5362d2aa-7653-496d-9bb6-112886c07116" "660eaf39-bae7-4dfa-9c2f-c8d4358f362e"
+			"6fbee3f1-b842-4fa4-b87c-2609fba92a2e"
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dModels/TVS2200.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
