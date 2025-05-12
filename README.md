@@ -1,1 +1,1 @@
-"this is a readme file" 
+Just a bunch of custom footprints, symbols, and models. Each one I used in a project, so I decided to just compile them all here. 
