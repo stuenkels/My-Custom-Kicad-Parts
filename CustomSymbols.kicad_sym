@@ -1998,7 +1998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CustomFootprints:UJ20-C-V-C-3-SMT-TR"
 			(at -49.53 -27.94 0)
 			(effects
 				(font
