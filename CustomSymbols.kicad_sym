@@ -22,8 +22,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at -2.54 33.02 0)
+		(property "Footprint" "CustomFootprints:BQ25798"
+			(at -1.778 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1582,7 +1582,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CustomFootprints:TPS54531DDAR"
 			(at 0 0 0)
 			(effects
 				(font
